@@ -2,7 +2,7 @@
 
 _Curriculum vitae_
 
-Born in Moscow, Russia, on September 29, 1983.
+Born in Moscow, Russia, and currently living in Germany.
 
 ---
 
@@ -27,17 +27,6 @@ HuR/ELAVL1. (2011)](https://refubium.fu-berlin.de/bitstream/handle/fub188/13796/
 
 ---
 
-## Skills
-
-### Experimentalist
-
-Work with RNA, bulk high-throughput sequencing, RNA-binding proteins crosslinking and immunoprecipitation, custom Illumina library preparation, lentivirus, CRISPR screening, CRIPSR knockout animal generation (D.rerio), immunofluorescence.
-
-### Computational
-
-R, basic Python, bulk high throughput sequencing data analysis, basic image analysis.
-
----
 
 ## Languages
 
