@@ -2,9 +2,11 @@
 
 _Curriculum vitae_
 
-RNA biologist.
+Senior postdoctoral researcher, specialist in RNA biology, hybrid wet --> dry.
 
 Born in Moscow, Russia, currently living in Germany.
+
+ORCID ID [0000-0003-0857-8256](https://orcid.org/0000-0003-0857-8256)
 
 ---
 
