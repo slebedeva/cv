@@ -14,7 +14,8 @@ ORCID ID [0000-0003-0857-8256](https://orcid.org/0000-0003-0857-8256)
 
 | Date | Position |
 |---|---|
-|12.2016-present| Postdoc at the laboratory of Uwe Ohler, Berlin Institute for Medical Systems Biology at the Max-Delbrueck Center for Molecular Medicine at the Helmholtz Association, Berlin, Germany|
+|10.2023-12.2023| Student for Data Science and AI Bootcamp, Le Wagon, Berlin, Germany |
+|12.2016-08.2023| Postdoc at the laboratory of Uwe Ohler, Berlin Institute for Medical Systems Biology at the Max-Delbrueck Center for Molecular Medicine at the Helmholtz Association, Berlin, Germany|
 |03.2013-11.2016| Postdoc at the laboratory of Rene Ketting, Institute of Molecular Biology, Mainz, Germany |
 |06.2012-02.2013| Postdoc at the laboratory of Rene Ketting, Hubrecht Institute, Utrecht, The Netherlands|
 |09.2006-01.2012| PhD student at the laboratory of Nikolaus Rajewsky, Max-Delbrueck Center for Molecular Medicine at the Helmholtz Association, Berlin, Germany |
