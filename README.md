@@ -2,7 +2,7 @@
 
 _Curriculum vitae_
 
-Senior biomedical researcher | Aspiring data scientist | Specialist in RNA biology 
+`Senior biomedical researcher | Aspiring data scientist | Specialist in RNA biology`
 
 Born in Moscow, Russia; living in Berlin, Germany.
 
