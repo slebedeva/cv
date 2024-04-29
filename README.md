@@ -2,11 +2,15 @@
 
 _Curriculum vitae_
 
-Senior postdoctoral researcher, specialist in RNA biology, hybrid wet --> dry.
+Senior biomedical researcher | Aspiring data scientist | Specialist in RNA biology 
 
-Born in Moscow, Russia, currently living in Germany.
+Born in Moscow, Russia; living in Berlin, Germany.
 
-ORCID ID [0000-0003-0857-8256](https://orcid.org/0000-0003-0857-8256)
+Contact me on [LinkedIn](https://www.linkedin.com/in/svetlana-s-lebedeva/)
+
+Learn about my [recent projects](https://vaulted-engineer-900.notion.site/Svetlana-Lebedeva-853a624b30024a2793d544eb971ec84a)
+
+My ORCID ID [0000-0003-0857-8256](https://orcid.org/0000-0003-0857-8256)
 
 ---
 
