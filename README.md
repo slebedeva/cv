@@ -10,6 +10,8 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/svetlana-s-lebedeva/)
 
 Learn about my [recent projects](https://vaulted-engineer-900.notion.site/Svetlana-Lebedeva-853a624b30024a2793d544eb971ec84a)
 
+Jump to [publications](#major-contribution-publications)
+
 My ORCID ID [0000-0003-0857-8256](https://orcid.org/0000-0003-0857-8256)
 
 ---
@@ -56,14 +58,16 @@ HuR/ELAVL1. (2011)](https://refubium.fu-berlin.de/bitstream/handle/fub188/13796/
 
 ## Other publications
 
-- Wessels HH, Lebedeva S, Hirsekorn A, Wurmus R, Akalin A, Mukherjee N, Ohler U. Global identification of functional microRNA-mRNA interactions in Drosophila. Nat Commun. 2019 Apr 9;10(1):1626. doi: 10.1038/s41467-019-09586-z. PMID: 30967537; PMCID: PMC6456604.
+- Poetz F, Corbo J, Levdansky Y, Spiegelhalter A, Lindner D, Magg V, Lebedeva S, Schweiggert J, Schott J, Valkov E, Stoecklin G. RNF219 attenuates global mRNA decay through inhibition of CCR4-NOT complex-mediated deadenylation. Nat Commun. 2021 Dec 9;12(1):7175. doi: 10.1038/s41467-021-27471-6. PMID: [34887419](https://doi.org/10.1038/s41467-021-27471-6).
 
-- Mukherjee N, Wessels HH, Lebedeva S, Sajek M, Ghanbari M, Garzia A, Munteanu A, Yusuf D, Farazi T, Hoell JI, Akat KM, Akalin A, Tuschl T, Ohler U. Deciphering human ribonucleoprotein regulatory networks. Nucleic Acids Res. 2019 Jan 25;47(2):570-581. doi: 10.1093/nar/gky1185. PMID: 30517751; PMCID: PMC6344852.
+- Wessels HH, Lebedeva S, Hirsekorn A, Wurmus R, Akalin A, Mukherjee N, Ohler U. Global identification of functional microRNA-mRNA interactions in Drosophila. Nat Commun. 2019 Apr 9;10(1):1626. doi: 10.1038/s41467-019-09586-z. PMID: 30967537; PMCID: [PMC6456604](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456604/).
 
-- Kellner S, Neumann J, Rosenkranz D, Lebedeva S, Ketting RF, Zischler H, Schneider D, Helm M. Profiling of RNA modifications by multiplexed stable isotope labelling. Chem Commun (Camb). 2014 Apr 4;50(26):3516-8. doi: 10.1039/c3cc49114e. Epub 2014 Feb 24. PMID: 24567952.
+- Mukherjee N, Wessels HH, Lebedeva S, Sajek M, Ghanbari M, Garzia A, Munteanu A, Yusuf D, Farazi T, Hoell JI, Akat KM, Akalin A, Tuschl T, Ohler U. Deciphering human ribonucleoprotein regulatory networks. Nucleic Acids Res. 2019 Jan 25;47(2):570-581. doi: 10.1093/nar/gky1185. PMID: 30517751; PMCID: [PMC6344852](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344852/).
 
-- Song JL, Stoeckius M, Maaskola J, Friedländer M, Stepicheva N, Juliano C, Lebedeva S, Thompson W, Rajewsky N, Wessel GM. Select microRNAs are essential for early development in the sea urchin. Dev Biol. 2012 Feb 1;362(1):104-13. doi: 10.1016/j.ydbio.2011.11.015. Epub 2011 Dec 3. PMID: 22155525; PMCID: PMC3254792.
+- Kellner S, Neumann J, Rosenkranz D, Lebedeva S, Ketting RF, Zischler H, Schneider D, Helm M. Profiling of RNA modifications by multiplexed stable isotope labelling. Chem Commun (Camb). 2014 Apr 4;50(26):3516-8. doi: 10.1039/c3cc49114e. Epub 2014 Feb 24. PMID: [24567952](https://pubmed.ncbi.nlm.nih.gov/24567952/).
 
-- Friedländer MR, Adamidi C, Han T, Lebedeva S, Isenbarger TA, Hirst M, Marra M, Nusbaum C, Lee WL, Jenkin JC, Sánchez Alvarado A, Kim JK, Rajewsky N. High-resolution profiling and discovery of planarian small RNAs. Proc Natl Acad Sci U S A. 2009 Jul 14;106(28):11546-51. doi: 10.1073/pnas.0905222106. Epub 2009 Jun 29. PMID: 19564616; PMCID: PMC2703670.
+- Song JL, Stoeckius M, Maaskola J, Friedländer M, Stepicheva N, Juliano C, Lebedeva S, Thompson W, Rajewsky N, Wessel GM. Select microRNAs are essential for early development in the sea urchin. Dev Biol. 2012 Feb 1;362(1):104-13. doi: 10.1016/j.ydbio.2011.11.015. Epub 2011 Dec 3. PMID: 22155525; PMCID: [PMC3254792](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3254792/).
 
-- Umanskaya ON, Lebedeva SS, Gavrilov AA, Bystritskiy AA, Razin SV. Inhibition of DNA topoisomerase II may trigger illegitimate recombination in living cells: experiments with a model system. J Cell Biochem. 2006 Oct 1;99(2):598-608. doi: 10.1002/jcb.20938. PMID: 16676353.
+- Friedländer MR, Adamidi C, Han T, Lebedeva S, Isenbarger TA, Hirst M, Marra M, Nusbaum C, Lee WL, Jenkin JC, Sánchez Alvarado A, Kim JK, Rajewsky N. High-resolution profiling and discovery of planarian small RNAs. Proc Natl Acad Sci U S A. 2009 Jul 14;106(28):11546-51. doi: 10.1073/pnas.0905222106. Epub 2009 Jun 29. PMID: 19564616; PMCID: [PMC2703670](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2703670/).
+
+- Umanskaya ON, Lebedeva SS, Gavrilov AA, Bystritskiy AA, Razin SV. Inhibition of DNA topoisomerase II may trigger illegitimate recombination in living cells: experiments with a model system. J Cell Biochem. 2006 Oct 1;99(2):598-608. doi: 10.1002/jcb.20938. PMID: [16676353](https://pubmed.ncbi.nlm.nih.gov/16676353/).
