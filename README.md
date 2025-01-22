@@ -20,6 +20,7 @@ My ORCID ID [0000-0003-0857-8256](https://orcid.org/0000-0003-0857-8256)
 
 | Date | Position |
 |---|---|
+|12.2024-current| Computational Biologist / Data Scientist, University of Cologne, Cologne, Germany |
 |10.2023-12.2023| Student for Data Science and AI Bootcamp, Le Wagon, Berlin, Germany |
 |12.2016-08.2023| Postdoc at the laboratory of Uwe Ohler, Berlin Institute for Medical Systems Biology at the Max-Delbrueck Center for Molecular Medicine at the Helmholtz Association, Berlin, Germany|
 |03.2013-11.2016| Postdoc at the laboratory of Rene Ketting, Institute of Molecular Biology, Mainz, Germany |
@@ -49,6 +50,8 @@ HuR/ELAVL1. (2011)](https://refubium.fu-berlin.de/bitstream/handle/fub188/13796/
 ---
 
 ## Major contribution publications
+
+- Saran S, Lebedeva S, Hirsekorn A, Ohler U. Cell-type specific prediction of RNA stability from RNA-protein interactions. [biorxiv](https://www.biorxiv.org/content/10.1101/2024.11.19.624283v1)
 
 - Poetz F, Lebedeva S, Schott J, Lindner D, Ohler U, Stoecklin G. Control of immediate early gene expression by CPEB4-repressor complex-mediated mRNA degradation. Genome Biol. 2022 Sep 12;23(1):193. doi: 10.1186/s13059-022-02760-5. PMID: 36096941;  PMCID: [PMC9465963](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9465963/).
 
