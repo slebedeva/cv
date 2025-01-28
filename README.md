@@ -51,13 +51,13 @@ HuR/ELAVL1. (2011)](https://refubium.fu-berlin.de/bitstream/handle/fub188/13796/
 
 ## Major contribution publications
 
-- Saran S, Lebedeva S, Hirsekorn A, Ohler U. Cell-type specific prediction of RNA stability from RNA-protein interactions. [biorxiv](https://www.biorxiv.org/content/10.1101/2024.11.19.624283v1)
+- Saran S, **Lebedeva S**, Hirsekorn A, Ohler U. Cell-type specific prediction of RNA stability from RNA-protein interactions. [biorxiv](https://www.biorxiv.org/content/10.1101/2024.11.19.624283v1)
 
-- Poetz F, Lebedeva S, Schott J, Lindner D, Ohler U, Stoecklin G. Control of immediate early gene expression by CPEB4-repressor complex-mediated mRNA degradation. Genome Biol. 2022 Sep 12;23(1):193. doi: 10.1186/s13059-022-02760-5. PMID: 36096941;  PMCID: [PMC9465963](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9465963/).
+- Poetz F, **Lebedeva S**, Schott J, Lindner D, Ohler U, Stoecklin G. Control of immediate early gene expression by CPEB4-repressor complex-mediated mRNA degradation. Genome Biol. 2022 Sep 12;23(1):193. doi: 10.1186/s13059-022-02760-5. PMID: 36096941;  PMCID: [PMC9465963](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9465963/).
 
-- Lebedeva S, de Jesus Domingues AM, Butter F, Ketting RF. Characterization of genetic loss-of-function of Fus in zebrafish. RNA Biol. 2017 Jan 2;14(1):29-35. doi: 10.1080/15476286.2016.1256532. Epub 2016 Nov 29. PMID: 27898262; PMCID: [PMC5270537](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5270537/).
+- **Lebedeva S**, de Jesus Domingues AM, Butter F, Ketting RF. Characterization of genetic loss-of-function of Fus in zebrafish. RNA Biol. 2017 Jan 2;14(1):29-35. doi: 10.1080/15476286.2016.1256532. Epub 2016 Nov 29. PMID: 27898262; PMCID: [PMC5270537](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5270537/).
 
-- Lebedeva S, Jens M, Theil K, Schwanhäusser B, Selbach M, Landthaler M, Rajewsky N. Transcriptome-wide analysis of regulatory interactions of the RNA-binding protein HuR. Mol Cell. 2011 Aug 5;43(3):340-52. doi: 10.1016/j.molcel.2011.06.008. Epub 2011 Jun 30. PMID: [21723171](https://www.sciencedirect.com/science/article/pii/S1097276511004229).
+- **Lebedeva S**, Jens M, Theil K, Schwanhäusser B, Selbach M, Landthaler M, Rajewsky N. Transcriptome-wide analysis of regulatory interactions of the RNA-binding protein HuR. Mol Cell. 2011 Aug 5;43(3):340-52. doi: 10.1016/j.molcel.2011.06.008. Epub 2011 Jun 30. PMID: [21723171](https://www.sciencedirect.com/science/article/pii/S1097276511004229).
 
 ## Other publications
 
